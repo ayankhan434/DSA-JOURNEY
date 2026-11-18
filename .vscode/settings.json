@@ -2,6 +2,8 @@
     "files.associations": {
         "*.js": "javascript",
         "*.tsx": "typescript",
-        "random": "cpp"
+        "*.py": "chatagent",
+        "random": "cpp",
+        "iostream": "cpp"
     }
 }
